@@ -1,3 +1,9 @@
+/*
+ * Program      : Sum of First 50 Natural Numbers
+ * Name         : Student Name
+ * Reg No       : L1F24BCS0081
+ * Assignment   : 01 - Getting Started with GitHub
+ */
 
 #include <iostream>
 using namespace std;
